@@ -1,2 +1,1 @@
-# Prepcourse-Henry
-Repositorio de prueba del M2 de Henry
+Este proyecto es una prueba de repositorios de github
